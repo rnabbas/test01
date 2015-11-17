@@ -1,1 +1,9 @@
-http://portal.rapidiptv.com:8080/get.php?username=QIUBPYOQzN&password=wpvS6SM8N7&type=m3u&output=mpegts
+#EXTM3U
+#EXTINF:-1,ex-Yu: Nickelodeon
+http://portal.rapidiptv.com:8080/live/QIUBPYOQzN/wpvS6SM8N7/6083.ts
+#EXTINF:-1,ex-Yu: Hayatovci
+http://portal.rapidiptv.com:8080/live/QIUBPYOQzN/wpvS6SM8N7/6084.ts
+#EXTINF:-1,ex-Yu: Federalna
+http://portal.rapidiptv.com:8080/live/QIUBPYOQzN/wpvS6SM8N7/6087.ts
+#EXTINF:-1,ex-Yu: Entertainment Plus
+http://portal.rapidiptv.com:8080/live/QIUBPYOQzN/wpvS6SM8N7/6082.ts
